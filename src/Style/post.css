@@ -22,7 +22,7 @@ body {
     border-radius: 0.3rem;
     cursor: pointer;
     border: 0;
-    background-color: hsl(160, 80%, 48%);
+    background-color: hsl(160, 100%, 51%);
     box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
     letter-spacing: 1.5px;
     text-transform: uppercase;
@@ -36,7 +36,7 @@ body {
   }
   
   button:hover {
-    background-color: hsl(160, 80%, 48%);
+    background-color: hsl(160, 100%, 51%);
     color: hsl(0, 0%, 100%);
     box-shadow: rgb(9, 172, 115) 0px 7px 19px 0px;
   }
@@ -54,7 +54,7 @@ body {
   
   .section-form {
     padding: 1.6rem;
-    background-color: #212f3d;
+    background-color: #000000;
     border-radius: 0.6rem;
     -webkit-border-radius: 0.6rem;
     -moz-border-radius: 0.6rem;
@@ -98,7 +98,7 @@ body {
         -ms-border-radius: 0.3rem;
         -o-border-radius: 0.3rem;
         list-style-position: inside;
-        border-left: 0.2rem solid #fff;
+        border: 0.2rem solid #fff;
       }
   
       & .btn-delete {
